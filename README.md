@@ -16,7 +16,7 @@ I analyized this data by creating a pivot table from my main dataset (Kickstart)
     2.There was a decrese in Failed outcomes and slight increase in Successful outcomes in month of October just to make December Successful and Failed were both the same at about 50%. 
 
 ### Analysis of Outcomes Based on Goals
-We wanted to look at the percentage of outcomes (Successful,Failed, and Canceled) plays based on the funding goal amount. We created a new table with the Goal data range and the number of Outcomes and Percentage of Outcomes. This we did on a seperate sheet titled "Outcomes Vs Goals"
+Looking at the percentage of outcomes (Successful,Failed, and Canceled) plays based on the funding goal amount. We created a new table with the Goal data range and the number of Outcomes and Percentage of Outcomes. This we did on a seperate sheet titled "Outcomes Vs Goals"
 the chart was used for making calculations. We used the Countifs function to helps us soperate the data within the Goal Column of main Dataset(Kickstart). We then created a line chart titled OUtcomes_Vs_Goals. 
 -Conclusion based on the Outcomes based on Goal was that the most successful outcome on a play project campaign was when the goal amount was in the range of $35,000 to $39,999. 
 
