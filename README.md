@@ -4,7 +4,8 @@ Louise is a client. She is a playwright who wants to launch a fundraising campai
 ### Purpose
 Purpose of this project it to analyze data gathered and to determine if we can help Louise achieve a successful outcome based on her budget. 
 ## Analysis and Challenges
-When analyizing the data some of the challenges I encountered was the Data set included data we really didn't need to get what we were wanting to look at. Also some conversions needed to be made to make it readable to the average person. I wanted to narrow my analysis down to Theater/Plays and Goal amount for successful and failed outcomes on a project. I also wanted to narrow it down by analyzing the OUtcome success based on Launch dates.  I had to use the YEAR function to pull the year from Date created.  
+When analyizing the data some of the challenges I encountered was the Data set included data not needed to get what was required for this particular project. Also some conversions needed to be made to make it readable to the average person.  I focused on Theater/Plays and Goal amount for successful and failed outcomes on a campaign project.
+I also wanted to narrow it down by analyzing the Oucome success based on Launch dates.  I had to use the YEAR function to pull the year from Date created.  
 I performed my analysis by organizing some data into seperate tables, creating charts and tables to help me narrow down specific data. 
 I would also create visual charts to display the data and it would help me gather more detail by using specific formulas to make some calculations. I did encounter some issues when creating charts due to my main data sheet being in filter or sort mode and so I would need to clear that when appropriate so it would capture all my data. 
 
@@ -22,6 +23,7 @@ the chart was used for making calculations. We used the Countifs function to hel
 
 
 ### Challenges and Difficulties Encountered
+I had trouble with my hardware and update versions on some excel functions but went back to my previous version and was fine. I also encuntered data that was calculated incorrectly due to filters being applied to my data table. I fixed this by clearing all filters before creating the chart or table for that particular data. 
 
 ## Result
 
@@ -36,7 +38,3 @@ the chart was used for making calculations. We used the Countifs function to hel
 -Some of the limitations of this dataset are...too much unneeded data, some conversions need to be made on some of the data to make it readable. Needed to add some data to original data. 
 
 -Some other possible tables and bar graphs that you could create would be a bar graph on percentage of outcomes based on Goal Range. 
-
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/94208![ParentCategoryOutcomes](https://user-images.githubusercontent.com/94208810/141657673-999208f3-db7e-44aa-9dcd-78323808897d.png)
-810/141657667-860969a4-dc0a-4e98-818d-b868eacdcdb3.png)![Theater_Outcomes_vs_Launchdate](https://user-images.githubusercontent.com/94208810/141657676-2da7d5e3-56c5-4cdf-8cb6-131dc1f5a71c.png)
-
