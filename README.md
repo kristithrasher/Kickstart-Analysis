@@ -9,7 +9,7 @@ I also wanted to narrow it down by analyzing the Oucome success based on Launch 
 I performed my analysis by organizing some data into seperate tables, creating charts and tables to help me narrow down specific data. 
 I would also create visual charts to display the data and it would help me gather more detail by using specific formulas to make some calculations. I did encounter some issues when creating charts due to my main data sheet being in filter or sort mode and so I would need to clear that when appropriate so it would capture all my data. 
 
-### Analysis of Theater Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date
 I analyized this data by creating a pivot table from my main dataset (Kickstart). With the pivot table I focused on Theater adn Years. We did not have a years column of data set and used the function to extract the year from Date Created column.  This narrowed it down from a long date to just the year the campaign was created. I then set up my pivot taable to gather the data I wanted such as Parent Category, Years and Outcomes. I ran into the Years had some options so I specifically chose Month in the pivot TABLE. Using the pivot table I created a line chart that showed me visually the Theatre Outcome status Based on Launch Date(Date Created).  
 -Two conclusions about the Outcomes Based on Launch Date 
     1.The Theater Category had doubled successful outcomes in comparison to failed outcomes.
@@ -21,7 +21,6 @@ Looking at the percentage of outcomes (Successful,Failed, and Canceled) plays ba
 the chart was used for making calculations. We used the Countifs function to helps us soperate the data within the Goal Column of main Dataset(Kickstart). We then created a line chart titled OUtcomes_Vs_Goals. 
 -Conclusion based on the Outcomes based on Goal was that the most successful outcome on a play project campaign was when the goal amount was in the range of $35,000 to $39,999. 
 
-
 ### Challenges and Difficulties Encountered
 I had trouble with my hardware and update versions on some excel functions but went back to my previous version and was fine. I also encuntered data that was calculated incorrectly due to filters being applied to my data table. I fixed this by clearing all filters before creating the chart or table for that particular data. 
 
@@ -32,9 +31,11 @@ I had trouble with my hardware and update versions on some excel functions but w
         May is a good time to campaign. 
     2.There was a decrese in Failed outcomes and slight increase in Successful outcomes in month of October just to make December Successful and Failed were both the same at about 50%. 
 
--Conclusion based on the Outcomes based on Goal was that the most successful outcome on a play project campaign was when the goal amount was in the range of $35,000 to $39,999. 
+- I Conclusion based on the Outcomes based on Goal was that the most successful outcome on a play project campaign was when the goal amount was in the range of $35,000 to $39,999. 
 
+-Limitations of this dataset are...too much unneeded data, some conversions need to be made on some of the data to make it readable. Needed to add some data to original data. 
 
--Some of the limitations of this dataset are...too much unneeded data, some conversions need to be made on some of the data to make it readable. Needed to add some data to original data. 
+-Some other possible tables and bar graphs that you could create would be a bar graph on percentage of outcomes based on Goal Range,  Could include detailed statistics for kickstarter data. This would help Louise measure the spread of the dataset. A descriptive statistics chart based on outcomes. 
+![barchart for outcomes vs goal]![Picture2](https://user-images.githubusercontent.com/94208810/141659479-24cbbb6c-8bb1-407e-aa97-32ec176dedee.png)
+(https://user-images.github![parentoutcome datafile](https://user-images.githubusercontent.com/94208810/141659481-ab8ee2e0-770e-47fe-bc73-aa86080a5bb6.png)
 
--Some other possible tables and bar graphs that you could create would be a bar graph on percentage of outcomes based on Goal Range. 
