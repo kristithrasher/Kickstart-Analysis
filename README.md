@@ -41,4 +41,5 @@ the Outcomes Based on Goal chart shows the successful GOal ranges. Also included
 
 ![parentoutcome datafile](https://user-images.githubusercontent.com/94208810/141924490-62c0d42a-0cdd-46e1-973a-6a4431936bf3.png)
 ![Theater_Outcomes_vs_Launchdate](https://user-images.githubusercontent.com/94208810/141924500-23ccb828-0eda-4206-b7db-26c9d98786dc.png)
-![Theater_Outcomes_vs_Launchdate](https://user-images.githubusercontent.com/94208810/141924516-4464b3e2-a8f9-4084-bfe4-f08213dd2206.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/94208810/142051779-3f75615c-b004-4957-82f7-7911af262590.png)
+
