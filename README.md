@@ -34,6 +34,6 @@ I had trouble with my hardware and update versions on some excel functions but w
 
 -Limitations of this dataset are...too much unneeded data, some conversions need to be made on some of the data to make it readable. Needed to add some data to original data. 
 
--Some other possible tables and bar graphs that you could create would be a bar graph on percentage of outcomes based on Goal Range,  Could include detailed statistics for Kickstarter data. This would help Louise measure the spread of the dataset. A descriptive statistics chart based on outcomes. 
+-Some other possible tables and bar graphs that you could create would be a bar graph on percentage of outcomes based on Goal Range,  
 ![barchart for outcomes vs goal]![Picture2](https://user-images.githubusercontent.com/94208810/141659479-24cbbb6c-8bb1-407e-aa97-32ec176dedee.png)
-(https://user-images.github![parentoutcome datafile](https://user-images.githubusercontent.com/94208810/141659481-ab8ee2e0-770e-47fe-bc73-aa86080a5bb6.png)
+
