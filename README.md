@@ -1,3 +1,7 @@
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/94208810/141924249-44083371-138d-4081-8ff8-f84be63697e3.png)
+![ParentCategoryOutcomes](https://user-images.githubusercontent.com/94208810/141924252-4fb7dd41-ad50-4c4a-8848-1f13fb58986a.png)
+![parentoutcome datafile](https://user-images.githubusercontent.com/94208810/141924253-b4584fc2-b6f9-4019-a5d2-38ec7b92f800.png)
+![Theater_Outcomes_vs_Launchdate](https://user-images.githubusercontent.com/94208810/141924254-8d8677f5-8cbd-49dd-816c-4a2449e71a10.png)
 # kickstart-analysis
 ## Overview of the Project
 Louise is a client. She is a playwright who wants to launch a fundraising campaign for her next play titled FEVER. She has a budget of little over $10,000.00.  She would like for us to help her have a successful campaign. We analyzed a set of data provided to us with information regarding to similar fundraising campaigns to see if we could help Louise make her campaign a success. 
@@ -32,7 +36,8 @@ I had trouble with my hardware and update versions on some excel functions but w
 
 - I Conclusion based on the Outcomes based on Goal was that the most successful outcome on a play project campaign was when the goal amount was in the range of $35,000 to $39,999. 
 
--Limitations of this dataset are...too much unneeded data, some conversions need to be made on some of the data to make it readable. Needed to add some data to original data. 
+-Limitations of this dataset are...too much unneeded data, some conversions need to be made on some of the data to make it readable. Needed to add some data to original data.
+the Outcomes Based on Goal chart shows the successful GOal ranges. Also included below is a chart that shows which months are most successful for a Theatre production. 
 
 -Some other possible tables and bar graphs that you could create would be a bar graph on percentage of outcomes based on Goal Range,  
 ![barchart for outcomes vs goal]
