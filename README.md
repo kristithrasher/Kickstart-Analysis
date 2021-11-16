@@ -35,5 +35,6 @@ I had trouble with my hardware and update versions on some excel functions but w
 -Limitations of this dataset are...too much unneeded data, some conversions need to be made on some of the data to make it readable. Needed to add some data to original data. 
 
 -Some other possible tables and bar graphs that you could create would be a bar graph on percentage of outcomes based on Goal Range,  
-![barchart for outcomes vs goal]![Picture2](https://user-images.githubusercontent.com/94208810/141659479-24cbbb6c-8bb1-407e-aa97-32ec176dedee.png)
+![barchart for outcomes vs goal]
+
 
