@@ -19,7 +19,7 @@ I analyzed this data by creating a pivot table from my main dataset (Kickstart).
 ### Analysis of Outcomes Based on Goals
 Looking at the percentage of outcomes (Successful, Failed, and Canceled) plays based on the funding goal amount. We created a new table with the Goal data range and the number of Outcomes and Percentage of Outcomes. This is found on a separate sheet titled "Outcomes Vs Goals"
 The chart was used for making calculations. We used the different functions to helps us separate the data within the Goal Column of main Dataset(Kickstart). We then created a line chart titled OUtcomes_Vs_Goals. 
--Conclusion based on the Outcomes based on Goal was that the most successful outcome on a play project campaign was when the goal amount was in the range of $35,000 to $39,999. I believe Louise will need to add to her budget or have fundraising meet the goal range of $35k to 40k. 
+-Conclusion based on the Outcomes based on Goal was that the most successful outcome on a play project campaign was when the goal amount was in the range of $35,000 to $44,999. I believe Louise will need to add to her budget or have fundraising meet the goal range of $35k to 45k. 
 
 ### Challenges and Difficulties Encountered
 I had trouble with my hardware and update versions on some excel functions but went back to my previous version and was fine. I also encountered data that was calculated incorrectly due to filters being applied to my data table. I fixed this by clearing all filters before creating the chart or table for that data.  
@@ -30,7 +30,7 @@ I had trouble with my hardware and update versions on some excel functions but w
         May is a good time to campaign. 
     2.There was a decrese in Failed outcomes and slight increase in Successful outcomes in month of October just to make December Successful and Failed were both the same at about 50%. 
 
-- I Conclusion based on the Outcomes based on Goal was that the most successful outcome on a play project campaign was when the goal amount was in the range of $35,000 to $39,999. 
+- I Conclusion based on the Outcomes based on Goal was that the most successful outcome on a play project campaign was when the goal amount was in the range of $35,000 to $44,999. 
 
 -Limitations of this dataset are...too much unneeded data, some conversions need to be made on some of the data to make it readable. Needed to add some data to original data.
 the Outcomes Based on Goal chart shows the successful GOal ranges. Also included below is a chart that shows which months are most successful for a Theatre production. 
@@ -38,7 +38,5 @@ the Outcomes Based on Goal chart shows the successful GOal ranges. Also included
 -Some other possible tables and bar graphs that you could create would be maybe a pie chart or other graphs with statistical data shown. 
 
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/94208810/142412113-b35d597a-28c6-4192-a523-375939ab027c.png)
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/94208810/142412115-2057cfd1-e04e-4fb1-b2bd-afdfa92b1d2f.png)
 
 
