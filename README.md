@@ -1,3 +1,5 @@
+![Percentage_Outcomes_based_og GoalRange](https://user-images.githubusercontent.com/94208810/142492105-2c16a4dc-7eca-42ac-a4b4-62aeff794672.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/94208810/142492113-1fcbf73c-6043-4f3f-ad89-be85b644258a.png)
 # kickstart-analysis
 ## Overview of the Project
 Louise is a client. She is a playwright who wants to launch a fundraising campaign for her next play titled FEVER. She has a budget of little over $10,000.00.  She would like for us to help her have a successful campaign. We analyzed a set of data provided to us with information regarding to similar fundraising campaigns to see if we could help Louise make her campaign a success. 
